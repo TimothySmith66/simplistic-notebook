@@ -9,6 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimothySmith66/simplistic-notebook.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/TimothySmith66/simplistic-notebook/issues"
+  },
+  "homepage": "https://github.com/TimothySmith66/simplistic-notebook#readme"
 }
